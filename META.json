@@ -1,7 +1,7 @@
 {
    "abstract" : "Flexible Perl implementation of Finite State Machine.",
    "author" : [
-      "Pawel Koscielny <pawel@>"
+      "Pawel Koscielny <koscielny.pawel@gmail.com>"
    ],
    "dynamic_config" : 1,
    "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.120620",
@@ -35,5 +35,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.02"
 }
